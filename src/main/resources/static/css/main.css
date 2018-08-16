@@ -1,0 +1,19 @@
+body{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.open-modal{
+	margin-top:100px !important;
+}
+
+.sis-centered {
+   text-align: center;
+}
+
+.sis-required:after {
+	content: " *";
+	color: red;
+}
+
+.btn {
+    cursor:pointer;
+}
